@@ -21,7 +21,7 @@ npm install
 
 ---
 
-## Step 2: Run Quality Commands today 
+## Step 2: Run Quality Commands today
 
 Run these commands:
 
